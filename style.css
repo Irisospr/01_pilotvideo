@@ -1,0 +1,36 @@
+footer {
+  padding: 20px;
+  background-color: black;
+  height: 70px;
+}
+
+.image-text {
+  position: absolute;
+  top: 40%;
+  right: 0;
+  color: black;
+  font-size: 85px;
+  font-weight: bold;
+  font-family: nova square;
+  padding: 30px;
+}
+
+p {
+  font-size: 45px;
+  font-weight: bold;
+  font-family: nova square;
+}
+
+img,
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+iframe {
+  width: 100%;
+  height: auto;
+
+  aspect-ratio: 16 / 9;
+}
